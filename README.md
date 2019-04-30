@@ -1,2 +1,2 @@
 # correspondence
-往復書簡
+currently out of use
