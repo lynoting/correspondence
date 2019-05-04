@@ -1,3 +1,7 @@
+---
+layout: default
+title: プロジェクト・タイトル
+---
 
 # h1
 ## h2
