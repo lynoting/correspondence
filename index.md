@@ -1,6 +1,6 @@
 ---
 layout: default
-title: プロジェクト・タイトル
+title: in-correspondence
 ---
 
 # h1
